@@ -10,8 +10,10 @@ The course is delivered using a **hybrid learning format**, combining **onsite**
 
 ## Class Information
 
-* **Classroom Location:** CB40610(1)
-* **Schedule:** SAHA/B: Wednesday, A: Friday, 13:30 – 16:30
+* **Classroom Location:** **CB40610(1)**
+* **Schedule:** 
+* - A/Section 1: **Friday**, **09:30 – 16:30**
+* - B/Section 2: **Wednesday**, **13:30 – 16:30**
 * **Learning Format:** Hybrid (Onsite + Online)
 
 ---

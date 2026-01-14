@@ -4,6 +4,12 @@
 
 ---
 
+[**Syllabus**](./Syllabus.md) | [**Course Outline**](./Outline.md) | [**Weekly Materials**](#weekly-reading-materials--self-test-quizzes) | [**YouTube**](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj) | [**GitHub**](https://github.com/drsanti/INC342-2026)
+
+![Course Code](https://img.shields.io/badge/Course-INC342-blue) ![Year](https://img.shields.io/badge/Year-2026-green) ![Language](https://img.shields.io/badge/Language-Embedded%20C-orange)
+
+---
+
 ![alt text](assets/cover.png)
 
 ---
@@ -14,8 +20,27 @@
 |------------|----------------|
 | **Learning Format** | Hybrid (Onsite + Online) |
 | **Classroom (Onsite)** | CB40610(1) |
-| **Schedule** | SAHA/B: Wednesday, A: Friday, 13:30 – 16:30 |
+| **Schedule** | A/Section 1: **Friday**, **09:30 – 16:30**<br>B/Section 2: **Wednesday**, **13:30 – 16:30** |
 | **Evaluation** | Assignments: **20%**, Quizzes: **80%**|
+
+### **Online Meeting Links (Zoom)**
+
+**A/Section 1:**
+- **Zoom Meeting:** [Join Meeting](https://kmutt-ac-th.zoom.us/j/94624481996?pwd=dCXxDVdXpAmxwvUFCPVHWtfNc6WKkM.1)
+- **Meeting ID:** 946 2448 1996
+- **Passcode:** 423767
+
+**B/Section 2:**
+- **Zoom Meeting:** [Join Meeting](https://kmutt-ac-th.zoom.us/j/99669736240?pwd=xLBOXXRlArcNBpPHokBXO563xhye6D.1)
+- **Meeting ID:** 996 6973 6240
+- **Passcode:** 577780
+
+---
+
+
+## Course Description
+
+This course covers the principles and applications of **embedded systems** for automation and control. Topics include **embedded system components** and architecture (16-bit Microchip CPUs, WiFi modules, board generations), **development environment setup** (CLI usage, TernionDevTools, IDE configuration), **firmware development** (development workflow, build/compile process, project structure), and **Embedded C programming fundamentals** (syntax, memory management, essential functions). The course also explores **event-driven programming** (events, callbacks, timers, state machines, ADC), **advanced Embedded C techniques** (standardized data types, pointers, memory management, `typedef`, data integrity), **microcontroller peripherals programming** (GPIO operations, register-level control), **program flow control and I/O manipulation** (conditional statements, Sensor-Controller-Actuator model, Digital/Analog I/O, bit manipulation), **code optimization strategies** (execution speed, memory/program length optimization, best practices), and **advanced programming techniques** (real-time timing, event-driven task scheduling, state machine architecture, modular peripheral control). Emphasis is placed on **hands-on programming** and **project-based learning** for real-world automation applications.
 
 ---
 
@@ -98,7 +123,7 @@ Each quiz consists of **two parts**:
 ## **Assignment Submission and Quiz Attendance Policy**
 
 * Late submissions will be considered as not submitted.
-* All quizzes will be conducted according to the scheduled class date and time.
+* All quizzes will be conducted **onsite at CB40610(1)** according to the scheduled class date and time.
 * If a student misses a quiz **without a valid reason**, they will receive **0 points** for that quiz.
 * If a student misses a quiz **with a valid reason** (supported by an official leave form or evidence), they may request a make-up quiz and will receive **70% of the score earned** (actual score × 0.7).
 
@@ -127,12 +152,6 @@ This course is structured in **three progressive phases**:
 - **Assessment:** Quiz 3 (Week 13) – 35%
 
 **Continuous Assessment:** Assignments throughout the semester – 20%
-
----
-
-## Course Description
-
-This course covers the principles and applications of **embedded systems** for automation and control. Topics include **embedded system components** and architecture (16-bit Microchip CPUs, WiFi modules, board generations), **development environment setup** (CLI usage, TernionDevTools, IDE configuration), **firmware development** (development workflow, build/compile process, project structure), and **Embedded C programming fundamentals** (syntax, memory management, essential functions). The course also explores **event-driven programming** (events, callbacks, timers, state machines, ADC), **advanced Embedded C techniques** (standardized data types, pointers, memory management, `typedef`, data integrity), **microcontroller peripherals programming** (GPIO operations, register-level control), **program flow control and I/O manipulation** (conditional statements, Sensor-Controller-Actuator model, Digital/Analog I/O, bit manipulation), **code optimization strategies** (execution speed, memory/program length optimization, best practices), and **advanced programming techniques** (real-time timing, event-driven task scheduling, state machine architecture, modular peripheral control). Emphasis is placed on **hands-on programming** and **project-based learning** for real-world automation applications.
 
 ---
 
