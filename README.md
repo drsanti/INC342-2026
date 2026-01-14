@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Course Information
+## Course Information
 
 | **Details** | **Information** |
 |------------|----------------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Upon successful completion of this course, students will be able to:
 
@@ -29,19 +29,37 @@ Upon successful completion of this course, students will be able to:
 
 ---
 
-## 📚 Course Resources
+## Course Resources
 
 ### **Course Documents**
 - **[Syllabus](./Syllabus.md)** - Complete course syllabus with detailed information
 - **[Course Outline](./Outline.md)** - Weekly schedule and topics
 
 ### **Learning Resources**
-- **YouTube Playlist:** [EP1-EP20](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
-- **GitHub Repository:** [drsanti/embedded-system-development](https://github.com/drsanti/embedded-system-development) - Source code, software, and documentation
+- **YouTube Playlist:** [EP01-EP20](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
+- **GitHub Repository:** [INC342-2026](https://github.com/drsanti/INC342-2026) - Learning resources, software tools, and documents
+
+### **Weekly Reading Materials & Self-Test Quizzes**
+
+Weekly reading materials and self-test quizzes are available to help you prepare for classes and assess your understanding:
+
+**Week 1: Introduction to Embedded Systems and Development Environment**
+- 📖 [Reading Material](./Week01/Week01-Read.md)
+- ✅ [Self-Test Quiz](./Week01/Week01-Test.md)
+
+**Week 2: Development Environment Setup**
+- 📖 [Reading Material](./Week02/Week02-Read.md)
+- ✅ [Self-Test Quiz](./Week02/Week02-Test.md)
+
+**Week 3: Firmware Development and Embedded C Programming**
+- 📖 [Reading Material](./Week03/Week03-Read.md)
+- ✅ [Self-Test Quiz](./Week03/Week03-Test.md)
+
+**Note:** Additional weekly materials will be added as the course progresses.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 This course uses the following technologies and tools:
 
@@ -54,7 +72,7 @@ This course uses the following technologies and tools:
 
 ---
 
-## 📊 Assessment Breakdown
+## Assessment Breakdown
 
 | Assessment Component | Weight |
 |---------------------|--------|
@@ -86,7 +104,7 @@ Each quiz consists of **two parts**:
 
 ---
 
-## 📈 Course Progression
+## Course Progression
 
 This course is structured in **three progressive phases**:
 
@@ -112,13 +130,13 @@ This course is structured in **three progressive phases**:
 
 ---
 
-## 📖 Course Description
+## Course Description
 
 This course covers the principles and applications of **embedded systems** for automation and control. Topics include **embedded system components** and architecture (16-bit Microchip CPUs, WiFi modules, board generations), **development environment setup** (CLI usage, TernionDevTools, IDE configuration), **firmware development** (development workflow, build/compile process, project structure), and **Embedded C programming fundamentals** (syntax, memory management, essential functions). The course also explores **event-driven programming** (events, callbacks, timers, state machines, ADC), **advanced Embedded C techniques** (standardized data types, pointers, memory management, `typedef`, data integrity), **microcontroller peripherals programming** (GPIO operations, register-level control), **program flow control and I/O manipulation** (conditional statements, Sensor-Controller-Actuator model, Digital/Analog I/O, bit manipulation), **code optimization strategies** (execution speed, memory/program length optimization, best practices), and **advanced programming techniques** (real-time timing, event-driven task scheduling, state machine architecture, modular peripheral control). Emphasis is placed on **hands-on programming** and **project-based learning** for real-world automation applications.
 
 ---
 
-## ⚙️ Prerequisites & Requirements
+## Prerequisites & Requirements
 
 To successfully participate in this course, students must have access to:
 
@@ -139,7 +157,7 @@ To successfully participate in this course, students must have access to:
 
 ---
 
-## 📅 Weekly Schedule Overview
+## Weekly Schedule Overview
 
 | Week | Topic | Activities |
 |------|-------|------------|
@@ -161,7 +179,7 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 
 ---
 
-## 📝 Grading Scale
+## Grading Scale
 
 | Score Range | Grade |
 |-------------|-------|
@@ -176,12 +194,15 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 - [Course Syllabus](./Syllabus.md)
 - [Detailed Course Outline](./Outline.md)
-- [YouTube Playlist (EP1-EP20)](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
-- [GitHub Repository](https://github.com/drsanti/embedded-system-development)
+- [Week 1 Reading Material](./Week01/Week01-Read.md) | [Week 1 Self-Test Quiz](./Week01/Week01-Test.md)
+- [Week 2 Reading Material](./Week02/Week02-Read.md) | [Week 2 Self-Test Quiz](./Week02/Week02-Test.md)
+- [Week 3 Reading Material](./Week03/Week03-Read.md) | [Week 3 Self-Test Quiz](./Week03/Week03-Test.md)
+- [YouTube Playlist (EP01-EP20)](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
+- [GitHub Repository](https://github.com/drsanti/INC342-2026)
 
 ---
 
