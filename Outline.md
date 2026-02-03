@@ -93,7 +93,7 @@
   * **User-Generated Events:** Users create events through hardware interactions; microcontroller interprets via software.
   * **Periodic Operations:** Repetitive actions (e.g., blinking LED) executed at regular intervals.
 * **Event handling and interrupt-driven programming:**
-  * **Callback Functions:** Register functions (e.g., `switch_set_callcback`) that system automatically executes when hardware event occurs.
+  * **Callback Functions:** Register functions (e.g., `switch_set_callback`) that system automatically executes when hardware event occurs.
   * **Intervals and Timers:** Use timers (e.g., Timer 0) to create "intervals" for periodic tasks, similar to `setInterval` in web development.
   * **Data Structures in Events:** Use pointers (`pointer to void`) to pass event data into callback functions.
   * **Pointer Casting:** "Unwrap" generic pointers by casting to specific data structures (e.g., `switch_t`) to access event details (state, ID).
@@ -110,6 +110,7 @@
   * **Switch Control:** Program LED to toggle only when specific button (e.g., Switch 3) is pressed.
   * **Light Sensing:** Develop program to monitor and print LDR values to terminal, observing system reactions to darkness and light.
 * **YouTube Resources:** EP8, EP9, EP10
+* **Weekly materials:** [Week04-Read01](./Week04/Week04-Read01.md) (concepts), [Week04-Read02](./Week04/Week04-Read02.md) (code), [Week04-Test01](./Week04/Week04-Test01.md), [Week04-Test02](./Week04/Week04-Test02.md)
 
 ---
 

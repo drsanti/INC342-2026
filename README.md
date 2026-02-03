@@ -80,6 +80,13 @@ Weekly reading materials and self-test quizzes are available to help you prepare
 - 📖 [Reading Material](./Week03/Week03-Read.md)
 - ✅ [Self-Test Quiz](./Week03/Week03-Test.md)
 
+**Week 4: Introduction to Event-Driven Programming**
+- 📖 [Reading (concepts)](./Week04/Week04-Read01.md) — Periodic operations, events, ADC
+- 📖 [Code examples](./Week04/Week04-Read02.md) — EP8, EP9, EP10 (blinking LED, switch, ADC)
+- ✅ [Self-Test (concepts)](./Week04/Week04-Test01.md)
+- ✅ [Self-Test (code)](./Week04/Week04-Test02.md)
+- 📋 [Week 4 folder index](./Week04/README.md)
+
 **Note:** Additional weekly materials will be added as the course progresses.
 
 ---
@@ -220,6 +227,7 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 1 Reading Material](./Week01/Week01-Read.md) | [Week 1 Self-Test Quiz](./Week01/Week01-Test.md)
 - [Week 2 Reading Material](./Week02/Week02-Read.md) | [Week 2 Self-Test Quiz](./Week02/Week02-Test.md)
 - [Week 3 Reading Material](./Week03/Week03-Read.md) | [Week 3 Self-Test Quiz](./Week03/Week03-Test.md)
+- [Week 4 Reading (concepts)](./Week04/Week04-Read01.md) | [Week 4 Code](./Week04/Week04-Read02.md) | [Week 4 Test 1](./Week04/Week04-Test01.md) | [Week 4 Test 2](./Week04/Week04-Test02.md)
 - [YouTube Playlist (EP01-EP20)](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
 - [GitHub Repository](https://github.com/drsanti/INC342-2026)
 
