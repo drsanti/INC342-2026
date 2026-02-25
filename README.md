@@ -87,6 +87,19 @@ Weekly reading materials and self-test quizzes are available to help you prepare
 - ✅ [Self-Test (code)](./Week04/Week04-Test02.md)
 - 📋 [Week 4 folder index](./Week04/README.md)
 
+**Week 6: Embedded C Programming Fundamentals**
+- 📖 [Reading Material](./Week06/Wee06-Read02.md) — Variables, Memory Architecture, stdint.h
+- ✅ [Theory Quiz](./Week06/Week02-Theory.md)
+- 💻 [Coding Quiz](./Week06/Week06-Coding.md)
+- 📋 [Week 6 folder index](./Week06/README.md)
+
+**Week 7: Embedded C Programming Fundamentals (Cont.)**
+- 📋 [Week 7 folder index (Shared with Week 6)](./Week07/README.md)
+
+**Week 8: Quiz 2 – Embedded C Programming**
+- 📋 [Week 8 folder index](./Week08/README.md)
+- 📝 [Scoring Policy](./Week05/Scoring-Policy.md)
+
 **Note:** Additional weekly materials will be added as the course progresses.
 
 ---
@@ -228,11 +241,14 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 2 Reading Material](./Week02/Week02-Read.md) | [Week 2 Self-Test Quiz](./Week02/Week02-Test.md)
 - [Week 3 Reading Material](./Week03/Week03-Read.md) | [Week 3 Self-Test Quiz](./Week03/Week03-Test.md)
 - [Week 4 Reading (concepts)](./Week04/Week04-Read01.md) | [Week 4 Code](./Week04/Week04-Read02.md) | [Week 4 Test 1](./Week04/Week04-Test01.md) | [Week 4 Test 2](./Week04/Week04-Test02.md)
+- [Week 6 Reading Material](./Week06/Wee06-Read02.md) | [Week 6 Theory Quiz](./Week06/Week02-Theory.md) | [Week 6 Coding Quiz](./Week06/Week06-Coding.md)
+- [Week 7 Index (Shared with Week 6)](./Week07/README.md)
+- [Week 8 Quiz 2 Index](./Week08/README.md)
 - [YouTube Playlist (EP01-EP20)](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
 - [GitHub Repository](https://github.com/drsanti/INC342-2026)
 
 ---
 
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-02-25
 
 ---

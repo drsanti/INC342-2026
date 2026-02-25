@@ -168,12 +168,12 @@
     * Memory management: Data Section (global/static variables), Stack (local variables), Heap (`malloc`/`free`).
     * Custom types: `typedef` for code readability and maintainability.
     * Data integrity: overflow and underflow, value wrapping behavior.
-    * Microcontroller peripherals: GPIO operations, register-level control, API functions (`led_write_4`), memory constraints.
+    * Microcontroller peripherals: GPIO operations, **Switches** (event callbacks), **Timers** (periodic intervals), **ADC** (analog sensing), and **LED** control.
   * **Programming:**
     * Embedded C programming: fixed-width data types, pointer operations, memory addressing, `typedef` usage.
     * Memory management: `sizeof()` operator, memory section placement (Data, Stack, Heap).
-    * Peripheral control: GPIO operations, binary value output to hardware components.
-    * Applications: binary counter implementation, floating point precision analysis, memory mapping verification.
+    * Peripheral control: Integrating **Switches**, **Timers**, and **ADC** with variable logic and **LED** output.
+    * Applications: Switch-triggered binary counter with overflow handling, ADC sensor precision analysis, memory mapping verification.
 
 ---
 
@@ -301,6 +301,6 @@ This course is structured in three progressive phases, each building upon previo
 
 ---
 
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-02-25
 
 ---
