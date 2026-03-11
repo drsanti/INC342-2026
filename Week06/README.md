@@ -5,11 +5,11 @@
 This directory contains the learning materials and assessment tasks for **Week 6**, focusing on the physical properties of variables, memory architecture, and professional firmware declaration standards.
 
 ## 📖 Reading Material
-*   [**Week 6: C Variables and Memory Management**](./Wee06-Read02.md)
+*   [**Week 6: C Variables and Memory Management**](./Wee06-Reading.md)
     *   Topics: Variable Categories, Overflow/Underflow, `sizeof()`, Memory Sections (Data/Stack/Heap), and `<stdint.h>`.
 
 ## 📋 Assessment & Quizzes
-*   [**Quiz 2 – Part 1 (Theory)**](./Week02-Theory.md)
+*   [**Quiz 2 – Part 1 (Theory)**](./Week06-Theory.md)
     *   30-45 minute paper-based assessment covering memory concepts and variable behavior.
 *   [**Quiz 2 – Part 2 (Coding)**](./Week06-Coding.md)
     *   Hands-on coding tasks integrating memory mapping, ADC sampling, and hardware I/O (switches/LEDs).
