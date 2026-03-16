@@ -270,7 +270,7 @@
 
 This course is structured in three progressive phases, each building upon previous knowledge and culminating in a comprehensive assessment.
 
-### **Phase 1: Foundations** (Weeks 1–4)
+### **Phase 1: Foundations** (Weeks 1–4) ✅ (Done)
 * **Learning Focus:** Introduction to embedded systems, development environment setup, firmware development, and event-driven programming
 * **Key Topics:**
   * Embedded system concepts: hardware vs. software (firmware), system design process, components and architecture (16-bit Microchip CPUs, WiFi modules, board generations)
@@ -280,7 +280,7 @@ This course is structured in three progressive phases, each building upon previo
   * Event-driven programming: events, callback functions, timers/intervals, state machines, ADC basics, environmental sensing (LDR)
 * **Assessment:** **Quiz 1** (Week 5) – 20% of final grade
 
-### **Phase 2: Embedded C Programming** (Weeks 6–8)
+### **Phase 2: Embedded C Programming** (Weeks 6–8) ✅ (Done)
 * **Learning Focus:** Advanced Embedded C programming techniques and microcontroller peripheral control
 * **Key Topics:**
   * Advanced Embedded C: standardized data types (`stdint.h`, fixed-width types), pointers and memory addressing, memory management (Data Section, Stack, Heap), `typedef` for custom types, data integrity (overflow/underflow)
@@ -301,6 +301,6 @@ This course is structured in three progressive phases, each building upon previo
 
 ---
 
-**Last Updated:** 2026-02-25
+**Last Updated:** 2026-03-16
 
 ---

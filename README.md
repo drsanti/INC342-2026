@@ -100,7 +100,20 @@ Weekly reading materials and self-test quizzes are available to help you prepare
 - 📋 [Week 8 folder index](./Week08/README.md)
 - 📝 [Scoring Policy](./Week05/Scoring-Policy.md)
 
-**Note:** Additional weekly materials will be added as the course progresses.
+**Week 9: Program Flow Control and I/O Manipulation**
+- 📋 [Week 9 folder index](./Week09/README.md)
+
+**Week 10: Program Flow Control and I/O Manipulation (Cont.)**
+- 📋 [Week 10 index (Shared with Week 9)](./Week10/README.md)
+
+**Week 11: Programming Optimization Techniques**
+- 📋 [Week 11 folder index](./Week11/README.md)
+
+**Week 12: Advanced Programming Techniques**
+- 📋 [Week 12 folder index](./Week12/README.md)
+
+**Week 13: Quiz 3 – Advanced Embedded Systems Programming**
+- 📋 [Week 13 folder index](./Week13/README.md)
 
 ---
 
@@ -244,11 +257,15 @@ For detailed weekly topics, see the [Course Outline](./Outline.md).
 - [Week 6 Reading Material](./Week06/Wee06-Reading.md) | [Week 6 Theory Quiz](./Week06/Week06-Theory.md) | [Week 6 Coding Quiz](./Week06/Week06-Coding.md)
 - [Week 7 Index (Shared with Week 6)](./Week07/README.md)
 - [Week 8 Quiz 2 Index](./Week08/README.md)
+- [Week 9 Materials](./Week09/) | [Week 10 Index](./Week10/README.md)
+- [Week 11 Materials](./Week11/README.md)
+- [Week 12 Materials](./Week12/README.md)
+- [Week 13 Quiz 3 Index](./Week13/README.md)
 - [YouTube Playlist (EP01-EP20)](https://www.youtube.com/watch?v=R_Hrb4gQyqM&list=PLBPFpqyTjzeXu0P0vRzooo-VWmZtSZkAj)
 - [GitHub Repository](https://github.com/drsanti/INC342-2026)
 
 ---
 
-**Last Updated:** 2026-02-25
+**Last Updated:** 2026-03-16
 
 ---
